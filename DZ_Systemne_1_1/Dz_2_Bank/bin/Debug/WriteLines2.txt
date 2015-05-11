@@ -1,0 +1,28 @@
+5 Money
+5 Money
+2 Money
+ 21:45 Changed property Money - 12
+ 21:45 Changed property Money - 1
+ 8 травня 2015 р.  21:47 Changed property Money - 7
+ 8 травня 2015 р.  21:47 Changed property Money - 8
+ 130755844636361701  21:47 Changed property Money - 5
+ 130755845125173696  21:48 Changed property Money - 5
+ 130755845129365008  21:48 Changed property Money - 2
+ 08.05.2015 18:49:06  21:49 Changed property Money - 5
+ 08.05.2015 18:49:06  21:49 Changed property Money - 2
+ 08.05.2015 21:49:45  21:49 Changed property Money - 5
+ 08.05.2015 21:49:46  21:49 Changed property Money - 2
+ 08.05.2015 21:54:43 Changed property Money  Money - 5    Name  -    Percent - 0
+ 08.05.2015 21:54:44 Changed property Money  Money - 2    Name  -    Percent - 0
+ 08.05.2015 21:56:18 Changed property Money  Money - 5    Name  -    Percent - 0
+ 08.05.2015 22:21:25 Changed property Percent  Money - 0    Name  -    Percent - 5
+ 08.05.2015 22:22:43 Changed property Percent  Money - 0    Name  -    Percent - 5
+ 08.05.2015 22:22:43 Changed property Percent  Money - 0    Name  -    Percent - 2
+ 08.05.2015 22:23:41 Changed property Percent  Money - 0    Name  -    Percent - 8
+ 08.05.2015 22:23:41 Changed property Percent  Money - 0    Name  -    Percent - 7
+ 08.05.2015 22:24:33 Changed property Money  Money - 4    Name  -    Percent - 0
+ 08.05.2015 22:24:34 Changed property Percent  Money - 4    Name  -    Percent - 5
+ 08.05.2015 22:26:50 Changed property Money  Money - 400    Name  -    Percent - 0
+ 08.05.2015 22:26:54 Changed property Percent  Money - 400    Name  -    Percent - 5
+ 08.05.2015 22:26:57 Changed property Name  Money - 400    Name  - Erste   Percent - 5
+ 08.05.2015 23:09:51 Changed property Money  Money - 5    Name  - null   Percent - 0

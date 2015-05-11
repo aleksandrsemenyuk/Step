@@ -1,0 +1,7 @@
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\obj\Debug\DZ_Tree_Proc.csprojResolveAssemblyReference.cache
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\obj\Debug\MainWindow.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\obj\Debug\App.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\obj\Debug\DZ_Tree_Proc_MarkupCompile.cache
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\obj\Debug\DZ_Tree_Proc_MarkupCompile.lref
+C:\Users\Олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Tree_Proc\bin\Debug\DZ_Tree_Proc.exe.config

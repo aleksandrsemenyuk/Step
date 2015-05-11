@@ -1,0 +1,6 @@
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_2_Bank\bin\Debug\Dz_2_Bank.exe.config
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_2_Bank\bin\Debug\Dz_2_Bank.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_2_Bank\bin\Debug\Dz_2_Bank.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_2_Bank\obj\Debug\Dz_2_Bank.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_2_Bank\obj\Debug\Dz_2_Bank.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_2_Bank\obj\Debug\Dz_2_Bank.csprojResolveAssemblyReference.cache

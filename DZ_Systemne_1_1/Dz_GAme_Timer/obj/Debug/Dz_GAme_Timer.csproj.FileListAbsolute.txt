@@ -1,0 +1,5 @@
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_GAme_Timer\bin\Debug\Dz_GAme_Timer.exe.config
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_GAme_Timer\bin\Debug\Dz_GAme_Timer.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_GAme_Timer\bin\Debug\Dz_GAme_Timer.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_GAme_Timer\obj\Debug\Dz_GAme_Timer.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_GAme_Timer\obj\Debug\Dz_GAme_Timer.pdb

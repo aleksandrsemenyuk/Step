@@ -1,0 +1,15 @@
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\bin\Debug\Dz_Tree_Proc1.exe.config
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\bin\Debug\Dz_Tree_Proc1.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\bin\Debug\Dz_Tree_Proc1.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\MainWindow.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\App.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1_MarkupCompile.cache
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1_MarkupCompile.lref
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\MainWindow.baml
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1.g.resources
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1.Properties.Resources.resources
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1.csproj.GenerateResource.Cache
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\Dz_Tree_Proc1\obj\Debug\Dz_Tree_Proc1.csprojResolveAssemblyReference.cache

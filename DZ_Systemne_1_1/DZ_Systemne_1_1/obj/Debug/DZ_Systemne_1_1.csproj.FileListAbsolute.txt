@@ -1,0 +1,6 @@
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Systemne_1_1\bin\Debug\DZ_Systemne_1_1.exe.config
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Systemne_1_1\bin\Debug\DZ_Systemne_1_1.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Systemne_1_1\bin\Debug\DZ_Systemne_1_1.pdb
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Systemne_1_1\obj\Debug\DZ_Systemne_1_1.csprojResolveAssemblyReference.cache
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Systemne_1_1\obj\Debug\DZ_Systemne_1_1.exe
+c:\users\олександр\documents\visual studio 2013\Projects\DZ_Systemne_1_1\DZ_Systemne_1_1\obj\Debug\DZ_Systemne_1_1.pdb
